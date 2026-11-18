@@ -2,3 +2,16 @@
 source :
 https://www.youtube.com/watch?v=c3Cn4xYfxJY&t=2560s&pp=ygUiYXdzIHNvbHV0aW9uIGFyY2hpdGVjdCBmdWxsIGNvdXJzZQ%3D%3D
 
+
+why no gui for this one ?
+https://github.com/settings/personal-access-tokens
+
+console to iam jump how ?
+
+
+iam :
+user aws-examples part of only admin group none else
+admin group custom with admin policy 
+
+
+s3 52:24
