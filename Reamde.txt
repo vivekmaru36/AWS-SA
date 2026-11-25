@@ -14,4 +14,4 @@ user aws-examples part of only admin group none else
 admin group custom with admin policy 
 
 
-s3 52:24
+s3 1:07:31
